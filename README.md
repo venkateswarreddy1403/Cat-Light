@@ -1,0 +1,2 @@
+# About
+This website is a basic example that showcases how to use the Document Object Model (DOM) in JavaScript, along with HTML and CSS. It features a switch element, demonstrating how to manipulate it with JavaScript. The site primarily focuses on handling user interactions through the onclick event, which allows users to toggle the switch and see real-time changes on the page. The project highlights fundamental DOM techniques and event handling, making it a practical exercise in integrating JavaScript with HTML and CSS for dynamic web functionality.
